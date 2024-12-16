@@ -169,7 +169,7 @@ export function TokenProgress({
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-1 md:gap-4">
           {selectedToken === "BNB" ? (
-            <div className="col-span-2 mb-8 rounded-full p-3 bg-black/40 w-fit mx-auto text-center text-gray-400 text-lg md:text-xl font-semibold">
+            <div className="col-span-2 mb-8 rounded-3xl p-3 bg-black/40 w-fit mx-auto text-center text-gray-400 text-lg md:text-xl font-semibold">
               Coming Soon
             </div>
           ) : (

@@ -183,8 +183,8 @@ export function TokenProgress({
               <AmountInput
                 value={amount ? calculateTokenAmount(amount) : ""}
                 onChange={() => {}}
-                token="UCC"
-                tokenIcon="/images/icon.png"
+                token="XEE"
+                tokenIcon="/images/xeenux.png"
                 readOnly
               />
             </>

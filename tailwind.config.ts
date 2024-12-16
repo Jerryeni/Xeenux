@@ -18,7 +18,7 @@ const config: Config = {
         lg: 'var(--radius)',
         md: 'calc(var(--radius) - 2px)',
         sm: 'calc(var(--radius) - 4px)',
-      },
+      }, luc
       colors: {
         background: 'var(--background)',
         foreground: 'var(--foreground)',
